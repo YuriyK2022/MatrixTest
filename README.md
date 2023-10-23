@@ -1,4 +1,4 @@
-# Matrix Test for Mtrx library (matrix constructor, matrix properties, matrix math operations)
+# MatrixTest is a simple test suite for Mtrx library
 
 MatrixTest is a library for testing Mtrx library.
 
